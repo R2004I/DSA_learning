@@ -1,4 +1,4 @@
-package Array;
+package Array.pepcoding_Array;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Array;
+package Array.pepcoding_Array;
 
 public class SumOfN {
 
